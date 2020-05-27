@@ -2,7 +2,7 @@
 ![CO2_Emissions](Images/bra05.19.analytics-coal-emissions.jpg)
 
 ### Introduction: 
->“Recent reports reveal that the Covid-19 shutdowns cut Carbon dioxide (CO2) emissions down to approximately 17%. Fossil fuel use is the primary source of CO2 but it can also be emitted from direct human-induced impacts on forestry and other land use. The global CO2 emission has significantly increased since the 1900s and remains as a major concern for the environmental and public health sector. The datasets for Global CO2 emissions by country are publicly available online for extraction. ”- CO2_Emissions 
+>Recent reports reveal that the Covid-19 shutdowns cut Carbon dioxide (CO2) emissions down to approximately 17%. Fossil fuel use is the primary source of CO2 but it can also be emitted from direct human-induced impacts on forestry and other land use. The global CO2 emission has significantly increased since the 1900s and remains as a major concern for the environmental and public health sector. The datasets for Global CO2 emissions by country are publicly available online for extraction.
 
 ### Project Description:
 The purpose of this project is to perfrom ETL (Extract, Transform, Load) on datasets collected from variety of sources. The final dataset geerated after performin ETL is loaded to its final destination, MongoDB. The following list shows a general breakdown of the different tasks completed for this project: 
