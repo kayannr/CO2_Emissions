@@ -59,7 +59,7 @@ The purpose of this project is to collect annual global CO2 emissions for every 
 
 * Loading data into MongoDB
     * 2 datasets are loaded into MongoDB database called 'globalco2emission_dt' that contains 2 collections: 
->       * 'CO2_208countries' - The data set in this collection includes the annual global CO2 emission for 208 countries 
->       * 'CO2_66countries_1970to2019' - The dataset in this collection includes the annual global CO2 emission for 66 countries 
+>       'CO2_208countries' - The data set in this collection includes the annual global CO2 emission for 208 countries 
+>       'CO2_66countries_1970to2019' - The dataset in this collection includes the annual global CO2 emission for 66 countries 
 
 
