@@ -6,9 +6,9 @@
 
 ### Project Description:
 This project explores the annual global carbon dioxide emission for each country that has publicly available data. The final dataset generated after performing ETL is loaded to its final destination, MongoDB. The following list shows a general breakdown of the different tasks completed for this project: 
-    * Stage 1: Data collection/extraction 
-    * Stage 2: Data exploration, cleanup, and transformation
-    * Stage 3: Data loading 
+>   * Stage 1: Data collection/extraction 
+>   * Stage 2: Data exploration, cleanup, and transformation
+>   * Stage 3: Data loading 
 
 ### Purpose: 
 The purpose of this project is to perfrom ETL (Extract, Transform, Load) on datasets collected from variety of sources. The collection of datasets is transformed in order to make it usable for data analysis.  
