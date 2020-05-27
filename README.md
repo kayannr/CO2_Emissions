@@ -18,11 +18,11 @@ The purpose of this project is to collect annual global CO2 emissions for every 
 * The collected data includes year 1970 through 2019.
 
 ### Dataset Sources: 
-* Knoema: https://knoema.com/EDGARED2019/global-ghg-and-co2-emissions 
-    * 208 countries (1970-2018)
-* Nationmaster: https://www.nationmaster.com/nmx/ranking/carbon-dioxide-emissions
-    * 66 countries (2019)
-* Population 2019: https://worldpopulationreview.com/
+>* Knoema: https://knoema.com/EDGARED2019/global-ghg-and-co2-emissions 
+>    * 208 countries (1970-2018)
+>* Nationmaster: https://www.nationmaster.com/nmx/ranking/carbon-dioxide-emissions
+>    * 66 countries (2019)
+>* Population 2019: https://worldpopulationreview.com/
 
 ### Actions and Tasks: 
 * Importing dependencies: 
