@@ -65,8 +65,8 @@ The purpose of this project is to perfrom ETL (Extract, Transform, Load) on data
 
 * Loading data into Database (MongoDB)
     * 2 datasets are loaded into MongoDB database called 'globalco2emission_dt' that contains 2 collections: 
->       * 'CO2_208countries' - The data set in this collection includes the annual global CO2 emission for 208 countries 
->       * 'CO2_66countries_1970to2019' - The dataset in this collection includes the annual global CO2 emission for 66 countries 
+>       1. 'CO2_208countries' - The data set in this collection includes the annual global CO2 emission for 208 countries 
+>       2. 'CO2_66countries_1970to2019' - The dataset in this collection includes the annual global CO2 emission for 66 countries 
 
 ### Limitations 
 The major limitation encountered while completing this project is obtaining a most recent (2019-2020) annual global CO2 emission for all approxmately 200 countries and/or territories in the world. The collected CO2 emissions for year 2019 only includes 66 countries. Even though recent reports reveal that there has been a 17% decrease in the overall CO2 emission during the Covid-19 pandemic, the data for CO2 emissions per country is still not available to the public. However, CO2 emission is available for all countries for 1970 through 2018. 
