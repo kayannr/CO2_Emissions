@@ -2,27 +2,27 @@
 ![CO2_Emissions](Images/bra05.19.analytics-coal-emissions.jpg)
 
 ### Introduction: 
->“Recent reports reveal that the Covid-19 shutdowns cut Carbon dioxide (CO2) emissions down to approximately 17%. Fossil fuel use is the primary source of CO2 but it can also be emitted from direct human-induced impacts on forestry and other land use. The global CO2 emission has significantly increased since the 1900s and remains as a major concern for the environmental and public health sector. The datasets for Global CO2 emissions by country are publicly available online for extraction. ”- CO2_Emissions 
+>Recent reports reveal that the Covid-19 shutdowns cut Carbon dioxide (CO2) emissions down to approximately 17%. Fossil fuel use is the primary source of CO2 but it can also be emitted from direct human-induced impacts on forestry and other land use. The global CO2 emission has significantly increased since the 1900s and remains as a major concern for the environmental and public health sector. The datasets for Global CO2 emissions by country are publicly available online for extraction.
 
 ### Project Description:
-The purpose of this project is to perfrom ETL (Extract, Transform, Load) on datasets collected from variety of sources. The final dataset geerated after performin ETL is loaded to its final destination, MongoDB. The following list shows a general breakdown of the different tasks completed for this project: 
-    * Stage 1: Data collection/extraction 
-    * Stage 2: Data exploration, cleanup, and transformation
-    * Stage 3: Data loading 
+This project explores the annual global carbon dioxide emission for each country that has publicly available data. The final dataset generated after performing ETL is loaded to its final destination, MongoDB. The following list shows a general breakdown of the different tasks completed for this project: 
+>   * 1: Data collection/extraction 
+>   * 2: Data exploration, cleanup, and transformation
+>   * 3: Data loading 
 
 ### Purpose: 
-The purpose of this project is to collect annual global CO2 emissions for every country from various online sources. The collection of datasets is transformed in order to make it usable for data analysis.  
+The purpose of this project is to perfrom ETL (Extract, Transform, Load) on datasets collected from variety of sources. The collection of datasets is transformed in order to make it usable for data analysis.  
 
 ### Scope: 
 * Annual global CO2 emission by country.
 * The collected data includes year 1970 through 2019.
 
 ### Dataset Sources: 
-* Knoema: https://knoema.com/EDGARED2019/global-ghg-and-co2-emissions 
-    * 208 countries (1970-2018)
-* Nationmaster: https://www.nationmaster.com/nmx/ranking/carbon-dioxide-emissions
-    * 66 countries (2019)
-* Population 2019: https://worldpopulationreview.com/
+>* Knoema: https://knoema.com/EDGARED2019/global-ghg-and-co2-emissions 
+>    * 208 countries (1970-2018)
+>* Nationmaster: https://www.nationmaster.com/nmx/ranking/carbon-dioxide-emissions
+>    * 66 countries (2019)
+>* Population 2019: https://worldpopulationreview.com/
 
 ### Actions and Tasks: 
 * Importing dependencies: 
