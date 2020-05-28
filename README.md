@@ -63,7 +63,7 @@ The purpose of this project is to perfrom ETL (Extract, Transform, Load) on data
             * Final Datasets:
                 A 'unit' column is added to this dataset. The 'Frequency' column values are changed from 'A' to 'Annually' for clarification. 
 
-* Loading data into Database (MongoDB)
+* Loading data into a Database (MongoDB)
     * 2 datasets are loaded into MongoDB database called 'globalco2emission_dt' that contains 2 collections: 
 >       1. 'CO2_208countries' - The data set in this collection includes the annual global CO2 emission for 208 countries 
 >       2. 'CO2_66countries_1970to2019' - The dataset in this collection includes the annual global CO2 emission for 66 countries 
