@@ -31,7 +31,7 @@ The purpose of this project is to perfrom ETL (Extract, Transform, Load) on data
 * Collecting all the data from online sources: A total of 3 datasets were collected from different online sources. 
     * JSON file: contains 2019 population count for every country (https://worldpopulationreview.com/)
     * API: contains annual global CO2 emission for a total of 208 countries from 1970 through 2018 (https://knoema.com/EDGARED2019/global-ghg-and-co2-emissions)
-    * Web-scraped: contains annual global CO2 emission for a total of 66 countries (https://www.nationmaster.com/nmx/ranking/carbon-dioxide-emissions)
+    * Web-scraping: contains annual global CO2 emission for a total of 66 countries (https://www.nationmaster.com/nmx/ranking/carbon-dioxide-emissions)
 
 * Data Cleaning, Transformation, and Exploration
     * This task includes checking for null values, verifying data type of each column contained in the dataframes, renaming columns, removing multi-index, adding/removing necessary columns, resetting index, merging datasets, and reorganizing the order of columns. 
